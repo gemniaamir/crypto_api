@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#727272</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="drawableTint">#623AB4</color>
+
+    <color name="orange">#FF5722</color>
+    <color name="blue">#03A9F4</color>
+
+    <color name="primaryVariantColor">#6F42CE</color>
+    <color name="primaryColor">#6F42CE</color>
+    <color name="surfaceColor">#B9B8C1</color>
+    <color name="secondaryColor">#484360</color>
+    <color name="secondaryVariantColor">#ffffff</color>
+    <color name="secondarySurfaceColor">#484360</color>
+    <color name="transparent">#002CA359</color>
+    <color name="backgroundColor">#F7F6F9</color>
+    <color name="drawableColor">#FAC54A</color>
+    <color name="textColor">#484360</color>
+    <color name="buttonColorTwo">#474261</color>
+    <color name="buttonColorOne">#EE5D47</color>
+    <color name="editBG">#FCFCFC</color>
+    <color name="drawableTintColor">#99989D</color>
+    <color name="coin_inactive_color">#B7A0E9</color>
+    <color name="coin_active_color">#FFFFFF</color>
+    <color name="lineChartColorValue">#6335C0</color>
+    <color name="success">#4CAF50</color>
+
+    <color name="grayIconTint">#727272</color>
+    <color name="circle_active_accent">#73D7E5</color>
+    <color name="circle_inactive_accent">#5E39AE</color>
+
+</resources>

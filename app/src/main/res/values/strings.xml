@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crypto Go</string>
+    <string name="btn_transition_time">Transition time</string>
+    <string name="pref_key_transition_time" translatable="false">pref_key_transition_time</string>
+</resources>

@@ -1,0 +1,13 @@
+This application provides users with current crypto currency rates and history. This uses a couple of online free APIs for this purpose. Below is list of APIs being used in this project.
+
+Free Currency Conversion and Forex Exchange Rate API provides you with current currency exchange rates. It has free plan for its users. It provides 1000 free calls per month.
+
+CoinCap API 2.0 also has free plan. It's responsible for crypto market rates and history data. It's free plan provides 500 request per minute with API Key and without API Key you have 200 requests per minute.
+
+This application is providing data about crypto currencies from mentioned resources. Resources are mentioned above. It doesn't fetch user data or share with anyone else. 
+
+It's completely safe to use. We are not responsible for data being provided in application. We provide data as it's received from APIs. So be careful before taking any decision. Verify it from another resource also.  
+
+For any further clarification please contact me through this platform. 
+
+Thanks
